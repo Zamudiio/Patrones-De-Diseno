@@ -11,10 +11,10 @@ La realidad es que podrías trabajar durante años como programador sin conocer 
 Los patrones de diseño definen un lenguaje común que puedes utilizar con tus compañeros de equipo para comunicaros de forma más eficiente. Podrías decir: “Oh, utiliza un singleton para eso”, y todos entenderían la idea de tu sugerencia. No habría necesidad de explicar qué es un singleton si conocen el patrón y su nombre.
 
 # Clasificación de los patrones
-- Los patrones creacionales proporcionan mecanismos de creación de objetos que incrementan la flexibilidad y la reutilización de código existente.
+- [Creacionales](https://github.com/Zamudiio/Patrones-De-Diseno/tree/main/content/creacionales): Los patrones creacionales proporcionan mecanismos de creación de objetos que incrementan la flexibilidad y la reutilización de código existente.
 
-- Los patrones estructurales explican cómo ensamblar objetos y clases en estructuras más grandes a la vez que se mantiene la flexibilidad y eficiencia de la estructura.
+- [Estructurales](https://github.com/Zamudiio/Patrones-De-Diseno/tree/main/content/estructurales): Los patrones estructurales explican cómo ensamblar objetos y clases en estructuras más grandes a la vez que se mantiene la flexibilidad y eficiencia de la estructura.
 
-- Los patrones de comportamiento se encargan de una comunicación efectiva y la asignación de responsabilidades entre objetos.
+- [Comportamiento](https://github.com/Zamudiio/Patrones-De-Diseno/tree/main/content/comportamiento): Los patrones de comportamiento se encargan de una comunicación efectiva y la asignación de responsabilidades entre objetos.
 
 [Fuente](https://refactoring.guru/es/)
