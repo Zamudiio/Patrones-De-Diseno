@@ -1,8 +1,5 @@
 # ¿Qué es un patrón de diseño?
-- > Los patrones de diseño son soluciones habituales a problemas que ocurren con frecuencia en el diseño de software.
-
-- > El patrón no es una porción específica de código, sino un concepto general para resolver un problema particular. 
-
+- > Los patrones de diseño son formas “estandarizadas” de resolver problemas comunes de diseño en el desarrollo de software.
 
 # ¿Por qué debería aprender sobre patrones?
 
@@ -17,4 +14,6 @@ Los patrones de diseño definen un lenguaje común que puedes utilizar con tus c
 
 - [Comportamiento](https://github.com/Zamudiio/Patrones-De-Diseno/tree/main/content/comportamiento): Los patrones de comportamiento se encargan de una comunicación efectiva y la asignación de responsabilidades entre objetos.
 
-[Fuente](https://refactoring.guru/es/)
+# Fuente Original
+
+[![favicon](https://refactoring.guru/favicon.png)](https://refactoring.guru/es/)
